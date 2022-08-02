@@ -1,0 +1,11 @@
+.task {
+  /* Sample  */
+  text-decoration: none;
+  display: flex;
+  gap: 20px;
+  text-align: center;
+  border: 1px solid gray;
+  width: 400px;
+  margin: 5px;
+}
+
